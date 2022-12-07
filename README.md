@@ -6,7 +6,7 @@
 
 # Run
 
-  1) Download the datasets from the above links.
+  1) Download the datasets.
   2) Install the required python libraries.
   3) Run the Jupyter Notebook
     
